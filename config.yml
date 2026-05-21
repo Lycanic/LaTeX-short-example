@@ -1,0 +1,5 @@
+author: "Laura Midgley"
+title: "Short Example"
+structure:
+  - type: document
+    source: main.tex
